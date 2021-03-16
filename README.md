@@ -1,6 +1,6 @@
 # chatty
 
-A new Flutter application.
+A simple mobile chat application using flutter and firebase.
 
 ## Getting Started
 
